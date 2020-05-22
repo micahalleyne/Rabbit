@@ -17,6 +17,12 @@ gem 'webpacker', '~> 4.0'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.7'
+# Forms made easy!
+gem 'simple_form', '~> 5.0', '>= 5.0.2'
+# bootstrap-sass is a Sass-powered version of Bootstrap 3, ready to drop right into your Sass powered applications.
+gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+# Haml (HTML Abstraction Markup Language) is a layer on top of HTML or XML that's designed to express the structure of documents in a non-repetitive, elegant, and easy way by using indentation rather than closing tags and allowing Ruby to be embedded with ease. It was originally envisioned as a plugin for Ruby on Rails, but it can function as a stand-alone templating engine.
+gem 'haml', '~> 5.1', '>= 5.1.2'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 4.0'
 # Use Active Model has_secure_password
